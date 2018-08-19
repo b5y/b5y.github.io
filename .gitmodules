@@ -1,3 +1,7 @@
 [submodule "themes/hugo-sustain"]
 	path = themes/hugo-sustain
 	url = https://github.com/nurlansu/hugo-sustain.git
+[submodule "public"]
+	path = public
+	url = git@github.com:b5y/b5y.github.io.git
+	branch = master
