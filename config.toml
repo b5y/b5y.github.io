@@ -1,4 +1,4 @@
-baseurl = "b5y.github.io"
+baseurl = "b5y.github.io/"
 title = "Mehti"
 theme = "hugo-coder"
 languagecode = "en"
