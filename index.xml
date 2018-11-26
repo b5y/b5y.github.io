@@ -2,49 +2,49 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mehti Musayev</title>
-    <link>b5y.github.io/</link>
+    <link>https://b5y.github.io/</link>
     <description>Recent content on Mehti Musayev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sun, 25 Nov 2018 00:30:10 +0200</lastBuildDate>
     
-	<atom:link href="b5y.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://b5y.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Welcome to my blog!</title>
-      <link>b5y.github.io/posts/my-first-post.md/</link>
+      <link>https://b5y.github.io/posts/my-first-post.md/</link>
       <pubDate>Sun, 25 Nov 2018 00:30:10 +0200</pubDate>
       
-      <guid>b5y.github.io/posts/my-first-post.md/</guid>
+      <guid>https://b5y.github.io/posts/my-first-post.md/</guid>
       <description>I will try to keep this blog alive and put everything related to my studies, work and life.</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>b5y.github.io/about/</link>
+      <link>https://b5y.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>b5y.github.io/about/</guid>
+      <guid>https://b5y.github.io/about/</guid>
       <description>Hey there! My name is Mehti Musayev. I am from Saint Petersburg, Russia.
 Passionate about machine learning and software engineering.</description>
     </item>
     
     <item>
       <title>Contact info</title>
-      <link>b5y.github.io/contact/</link>
+      <link>https://b5y.github.io/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>b5y.github.io/contact/</guid>
+      <guid>https://b5y.github.io/contact/</guid>
       <description>I am happy to communicate with smart people. You can reach me via email or telegram.</description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>b5y.github.io/projects/</link>
+      <link>https://b5y.github.io/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>b5y.github.io/projects/</guid>
+      <guid>https://b5y.github.io/projects/</guid>
       <description>During my career I have been collaborating into limited number of open source projects. My volunteer work for open source community started in 2016 when I was using several projects at work. Here is the full list of open source projects where I am currently represented as a collaborator:
  RedBaron baron yapf (owned by Google) ELFI (owned by Aalto University)  </description>
     </item>
