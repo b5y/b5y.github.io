@@ -1,51 +1,46 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://musayev.me/</loc>
-    <lastmod>2018-11-25T00:30:10+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://musayev.me/posts/</loc>
-    <lastmod>2018-11-25T00:30:10+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://musayev.me/tags/</loc>
-    <lastmod>2018-11-25T00:30:10+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://musayev.me/posts/my-first-post.md/</loc>
+    <loc>b5y.github.io/tags/life/</loc>
     <lastmod>2018-11-25T00:30:10+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://musayev.me/tags/life/</loc>
+    <loc>b5y.github.io/</loc>
     <lastmod>2018-11-25T00:30:10+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://musayev.me/about/</loc>
+    <loc>b5y.github.io/posts/</loc>
+    <lastmod>2018-11-25T00:30:10+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://musayev.me/categories/</loc>
-    <priority>0</priority>
+    <loc>b5y.github.io/tags/</loc>
+    <lastmod>2018-11-25T00:30:10+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://musayev.me/cv/</loc>
+    <loc>b5y.github.io/posts/my-first-post.md/</loc>
+    <lastmod>2018-11-25T00:30:10+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://musayev.me/projects/</loc>
+    <loc>b5y.github.io/about/</loc>
+  </url>
+  
+  <url>
+    <loc>b5y.github.io/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>b5y.github.io/cv/</loc>
+  </url>
+  
+  <url>
+    <loc>b5y.github.io/projects/</loc>
   </url>
   
 </urlset>

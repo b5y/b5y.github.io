@@ -1,51 +1,53 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mehti Musayev</title>
-    <link>https://musayev.me/</link>
+    <link>b5y.github.io/</link>
     <description>Recent content on Mehti Musayev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sun, 25 Nov 2018 00:30:10 +0200</lastBuildDate>
     
-	<atom:link href="https://musayev.me/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="b5y.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Welcome to my blog!</title>
-      <link>https://musayev.me/posts/my-first-post.md/</link>
+      <link>b5y.github.io/posts/my-first-post.md/</link>
       <pubDate>Sun, 25 Nov 2018 00:30:10 +0200</pubDate>
       
-      <guid>https://musayev.me/posts/my-first-post.md/</guid>
+      <guid>b5y.github.io/posts/my-first-post.md/</guid>
       <description>I will try to keep this blog alive and put everything related to my studies, work and life.</description>
     </item>
     
     <item>
-      <title>About me</title>
-      <link>https://musayev.me/about/</link>
+      <title>About</title>
+      <link>b5y.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://musayev.me/about/</guid>
-      <description>Hey there! My name is Mehti Musayev. I am from Saint Petersburg, Russia.
-Passionate about machine learning and software engineering.</description>
+      <guid>b5y.github.io/about/</guid>
+      <description>Hey there! My name is Mekhti Musaev (pronounced as Mehti Musayev).
+I&amp;rsquo;m currently employed as a Machine Learning Engineer at CGI Suomi Oy in Finland. If you have interesting position in Deep Learning field, feel free to drop me a message.
+In my leisure time I enjoy travelling, playing table tennis (aka ping pong), tennis, badminton, cycling, swimming, surfing (Portugal, eu te amo) and snowboarding.
+If you want to meet/talk with me, feel free to reach me (preferably via telegram).</description>
     </item>
     
     <item>
       <title>Curriculum vitae</title>
-      <link>https://musayev.me/cv/</link>
+      <link>b5y.github.io/cv/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://musayev.me/cv/</guid>
+      <guid>b5y.github.io/cv/</guid>
       <description>The most recent version of my cv is on my LinkedIn profile. Also you can find pdf version of my CV here.
 I always interested in good companies. If I am already employed, I could pay attention to your open source projects or even contribute.</description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>https://musayev.me/projects/</link>
+      <link>b5y.github.io/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://musayev.me/projects/</guid>
+      <guid>b5y.github.io/projects/</guid>
       <description>During my career I have been collaborating into limited number of open source projects. My volunteer work for open source community started in 2016 when I was using several projects at work. In the following list one can find all open source projects where I am currently represented as a collaborator:
  RedBaron baron yapf (owned by Google) ELFI (owned by Aalto University, Finland)  </description>
     </item>

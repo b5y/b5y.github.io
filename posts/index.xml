@@ -1,22 +1,22 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Mehti Musayev</title>
-    <link>https://musayev.me/posts/</link>
+    <link>b5y.github.io/posts/</link>
     <description>Recent content in Posts on Mehti Musayev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sun, 25 Nov 2018 00:30:10 +0200</lastBuildDate>
     
-	<atom:link href="https://musayev.me/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="b5y.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Welcome to my blog!</title>
-      <link>https://musayev.me/posts/my-first-post.md/</link>
+      <link>b5y.github.io/posts/my-first-post.md/</link>
       <pubDate>Sun, 25 Nov 2018 00:30:10 +0200</pubDate>
       
-      <guid>https://musayev.me/posts/my-first-post.md/</guid>
+      <guid>b5y.github.io/posts/my-first-post.md/</guid>
       <description>I will try to keep this blog alive and put everything related to my studies, work and life.</description>
     </item>
     
