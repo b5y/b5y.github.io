@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Mehti Musayev</title>
-    <link>b5y.github.io/posts/</link>
+    <link>https://b5y.github.io/posts/</link>
     <description>Recent content in Posts on Mehti Musayev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sun, 25 Nov 2018 00:30:10 +0200</lastBuildDate>
     
-	<atom:link href="b5y.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://b5y.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Welcome to my blog!</title>
-      <link>b5y.github.io/posts/my-first-post.md/</link>
+      <link>https://b5y.github.io/posts/my-first-post.md/</link>
       <pubDate>Sun, 25 Nov 2018 00:30:10 +0200</pubDate>
       
-      <guid>b5y.github.io/posts/my-first-post.md/</guid>
+      <guid>https://b5y.github.io/posts/my-first-post.md/</guid>
       <description>I will try to keep this blog alive and put everything related to my studies, work and life.</description>
     </item>
     
