@@ -1,16 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Mekhti Musaev</title>
+    <title>Mehti Musayev</title>
     <link>https://musayev.me/</link>
-    <description>Recent content on Mekhti Musaev</description>
+    <description>Recent content on Mehti Musayev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 25 Nov 2018 00:30:10 +0200</lastBuildDate>
-    
-	<atom:link href="https://musayev.me/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sun, 25 Nov 2018 00:30:10 +0200</lastBuildDate><atom:link href="https://musayev.me/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Welcome to my blog!</title>
       <link>https://musayev.me/posts/my-first-post.md/</link>
@@ -27,7 +23,7 @@
       
       <guid>https://musayev.me/about/</guid>
       <description>Hey there! My name is Mekhti Musaev (spelled as Mehti Musayev).
-I&amp;rsquo;m currently employed as a Machine Learning Consultant at CGI Suomi Oy in Finland.
+I&amp;rsquo;m currently employed as an AI Engineer at Silo AI Oy in Finland.
 In my leisure time I enjoy travelling, playing table tennis (aka ping pong), tennis, badminton, cycling, swimming, surfing (Portugal, eu te amo) and snowboarding.
 If you want to meet/talk with me, feel free to reach me (preferably via telegram).
 How I got started My way to computer science is quite typical.</description>
