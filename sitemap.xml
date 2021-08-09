@@ -1,46 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://musayev.me/tags/life/</loc>
     <lastmod>2018-11-25T00:30:10+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://musayev.me/</loc>
     <lastmod>2018-11-25T00:30:10+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://musayev.me/posts/</loc>
     <lastmod>2018-11-25T00:30:10+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://musayev.me/tags/</loc>
     <lastmod>2018-11-25T00:30:10+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://musayev.me/posts/my-first-post.md/</loc>
     <lastmod>2018-11-25T00:30:10+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://musayev.me/about/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://musayev.me/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://musayev.me/cv/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://musayev.me/projects/</loc>
   </url>
-  
 </urlset>
