@@ -19,6 +19,8 @@
   </url><url>
     <loc>https://musayev.me/about/</loc>
   </url><url>
+    <loc>https://musayev.me/authors/</loc>
+  </url><url>
     <loc>https://musayev.me/categories/</loc>
   </url><url>
     <loc>https://musayev.me/cv/</loc>
@@ -26,5 +28,7 @@
     <loc>https://musayev.me/donate/</loc>
   </url><url>
     <loc>https://musayev.me/projects/</loc>
+  </url><url>
+    <loc>https://musayev.me/series/</loc>
   </url>
 </urlset>
