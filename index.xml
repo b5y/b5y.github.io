@@ -6,61 +6,42 @@
     <description>Recent content on Mehti Musayev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 25 Nov 2018 00:30:10 +0200</lastBuildDate><atom:link href="https://musayev.me/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 25 Nov 2018 00:30:10 +0200</lastBuildDate>
+    <atom:link href="https://musayev.me/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Welcome to my blog!</title>
       <link>https://musayev.me/posts/my-first-post.md/</link>
       <pubDate>Sun, 25 Nov 2018 00:30:10 +0200</pubDate>
-      
       <guid>https://musayev.me/posts/my-first-post.md/</guid>
       <description>I will try to keep this blog alive and put everything related to my studies, work and life.</description>
     </item>
-    
     <item>
       <title>About</title>
       <link>https://musayev.me/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://musayev.me/about/</guid>
-      <description>Hey there! My name is Mehti Musayev (officially Mekhti Musaev).
-In my leisure time I enjoy travelling, playing table tennis (aka ping pong), tennis, badminton, cycling, swimming, surfing (Portugal, eu te amo) and snowboarding.
-If you want to meet/talk with me, feel free to reach me.
-My career path    My way to computer science is quite typical. I got interested in maths and physics when I studied in secondary school.</description>
+      <description>Hey there! My name is Mehti Musayev (officially Mekhti Musaev).&#xA;In my leisure time I enjoy travelling, playing table tennis (aka ping pong), tennis, badminton, cycling, swimming, surfing, and snowboarding.&#xA;If you want to meet/talk with me, feel free to reach me.&#xA;My career path Link to heading My journey into computer science is quite typical. I developed an interest in mathematics and physics during my secondary school studies. I got interested in maths and physics when I studied in secondary school.</description>
     </item>
-    
     <item>
       <title>Curriculum vitae</title>
       <link>https://musayev.me/cv/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://musayev.me/cv/</guid>
       <description>The most recent version of my cv is on my LinkedIn profile.</description>
     </item>
-    
     <item>
       <title>Donation</title>
       <link>https://musayev.me/donate/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://musayev.me/donate/</guid>
-      <description>If you like my projects, work or just want to buy me a coffee, feel free to use:
-  BTC: bc1q4nmnf8xa9a2uymt25gph9k6zel6l7n08dv5w9n
-  ETH: 0x6F1f8A9C39492e1C3aC3F3e23Bc4ff73cbb8Ff3C
-  ADA: Ae2tdPwUPEZLaRicJAQoTmkZGrzd3mme8vMnbHnmH6G8u7wsPhjQtJuckvt
-  </description>
+      <description>If you like my projects, work or just want to buy me a coffee, feel free to use:&#xA;BTC: bc1q4nmnf8xa9a2uymt25gph9k6zel6l7n08dv5w9n&#xA;ETH: 0x6F1f8A9C39492e1C3aC3F3e23Bc4ff73cbb8Ff3C&#xA;ADA: Ae2tdPwUPEZLaRicJAQoTmkZGrzd3mme8vMnbHnmH6G8u7wsPhjQtJuckvt</description>
     </item>
-    
     <item>
       <title>Projects</title>
       <link>https://musayev.me/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://musayev.me/projects/</guid>
-      <description>During my career I have been collaborating into limited number of open source and industrial projects.
-My volunteer work for open source community started in 2016 when I was using several projects at work. In the following list one can find all open source and industrial projects where I am currently/used to be represented as a collaborator/team member:
-Open source projects:
- RedBaron baron yapf (owned by Google) ELFI (owned by Aalto University, Finland)  Industrial projects:</description>
+      <description>During my career I have been collaborating into limited number of open source and industrial projects.&#xA;My volunteer work for open source community started in 2016 when I was using several projects at work. In the following list one can find all open source and industrial projects where I am currently/used to be represented as a collaborator/team member:&#xA;Open source projects:&#xA;RedBaron baron yapf (owned by Google) ELFI (owned by Aalto University, Finland) Industrial projects:</description>
     </item>
-    
   </channel>
 </rss>

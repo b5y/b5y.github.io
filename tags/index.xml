@@ -6,15 +6,14 @@
     <description>Recent content in Tags on Mehti Musayev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 25 Nov 2018 00:30:10 +0200</lastBuildDate><atom:link href="https://musayev.me/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 25 Nov 2018 00:30:10 +0200</lastBuildDate>
+    <atom:link href="https://musayev.me/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>life</title>
       <link>https://musayev.me/tags/life/</link>
       <pubDate>Sun, 25 Nov 2018 00:30:10 +0200</pubDate>
-      
       <guid>https://musayev.me/tags/life/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>
