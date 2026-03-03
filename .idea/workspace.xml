@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a467ac63-48ea-4edc-a541-3435dcb3e70d" name="Changes" comment="Update cv page." />
+    <list default="true" id="a467ac63-48ea-4edc-a541-3435dcb3e70d" name="Changes" comment="Revert font size to default.&#10;Fix Resume page." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -312,7 +312,15 @@
       <option name="project" value="LOCAL" />
       <updated>1772565732242</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="Revert font size to default.&#10;Fix Resume page.">
+      <option name="closed" value="true" />
+      <created>1772566282288</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1772566282288</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -444,7 +452,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Update front page." />
     <MESSAGE value="Update footer.html." />
     <MESSAGE value="Fix error." />
     <MESSAGE value="Fix bug." />
@@ -469,6 +476,7 @@
     <MESSAGE value="Revert to previous theme." />
     <MESSAGE value="Add loveit theme." />
     <MESSAGE value="Update cv page." />
-    <option name="LAST_COMMIT_MESSAGE" value="Update cv page." />
+    <MESSAGE value="Revert font size to default.&#10;Fix Resume page." />
+    <option name="LAST_COMMIT_MESSAGE" value="Revert font size to default.&#10;Fix Resume page." />
   </component>
 </project>
