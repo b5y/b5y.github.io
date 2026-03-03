@@ -1,0 +1,457 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a467ac63-48ea-4edc-a541-3435dcb3e70d" name="Changes" comment="Add loveit theme." />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="hugo-coder" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;b5y&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:b5y/b5y.github.io.git&quot;,
+    &quot;accountId&quot;: &quot;7dc76c3b-17f9-442d-92a5-6d6340ba989d&quot;
+  }
+}</component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2AI02z6drrn4tOJ8axg4N8hFBWK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
+    "TF_FMT": "false",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "loveit-theme",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/memu/private/b5y.github.io",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.31033.145" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a467ac63-48ea-4edc-a541-3435dcb3e70d" name="Changes" comment="" />
+      <created>1654681589531</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1654681589531</updated>
+      <workItem from="1654681590728" duration="306000" />
+      <workItem from="1654721457408" duration="284000" />
+      <workItem from="1683804209734" duration="9265000" />
+      <workItem from="1683884888126" duration="759000" />
+      <workItem from="1685265068060" duration="788000" />
+    </task>
+    <task id="LOCAL-00001" summary="Update front page.">
+      <created>1654681622741</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1654681622741</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Update front page.">
+      <created>1654721633779</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1654721633779</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Update footer.html.">
+      <created>1683807547257</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1683807547257</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Fix error.">
+      <created>1683808496557</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1683808496557</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Fix bug.">
+      <created>1683808585092</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1683808585092</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Re-build project.">
+      <created>1683809332740</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1683809332740</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Fix footer.">
+      <created>1683816877057</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1683816877057</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Fix errors.">
+      <created>1683826368137</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1683826368137</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Change footer.">
+      <created>1683827113503</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1683827113503</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Update info.">
+      <created>1683885276328</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1683885276328</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Fix medium link.">
+      <created>1685265250426</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1685265250426</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Update about page.">
+      <option name="closed" value="true" />
+      <created>1702664104497</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1702664104497</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Update css and js files.">
+      <option name="closed" value="true" />
+      <created>1702665231636</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1702665231636</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Change year to 2024.">
+      <option name="closed" value="true" />
+      <created>1708704570508</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1708704570508</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Update photo and title.">
+      <option name="closed" value="true" />
+      <created>1716231530882</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1716231530882</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Update about page.&#10;Add recommendations section.">
+      <option name="closed" value="true" />
+      <created>1724660760886</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1724660760886</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Update about page.">
+      <option name="closed" value="true" />
+      <created>1757447057367</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1757447057368</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Update about and cv pages.">
+      <option name="closed" value="true" />
+      <created>1757448229697</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1757448229697</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Update headings.">
+      <option name="closed" value="true" />
+      <created>1757448469628</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1757448469628</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Fix degree name.">
+      <option name="closed" value="true" />
+      <created>1757448851592</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1757448851592</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Update about page.">
+      <option name="closed" value="true" />
+      <created>1766168136004</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1766168136004</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Fix about page.">
+      <option name="closed" value="true" />
+      <created>1766168256057</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1766168256057</updated>
+    </task>
+    <task id="LOCAL-00023" summary="update section with date range in degree description.">
+      <option name="closed" value="true" />
+      <created>1766168722828</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1766168722828</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Fix date on HS graduation.">
+      <option name="closed" value="true" />
+      <created>1767033718580</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1767033718580</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Add new template.">
+      <option name="closed" value="true" />
+      <created>1772563558756</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1772563558756</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Revert to previous theme.">
+      <option name="closed" value="true" />
+      <created>1772563738481</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1772563738481</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Add loveit theme.">
+      <option name="closed" value="true" />
+      <created>1772564166480</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1772564166480</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+        <option value="Default.Subject" />
+        <option value="Space.CommitStatus" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="38881db2-4e2a-465d-af48-c8800cfb9437" value="TOOL_WINDOW" />
+        <entry key="ad60ac61-9b72-4cf7-8184-9fb63ae7cde9" value="TOOL_WINDOW" />
+        <entry key="df06118f-cc63-4a5a-a83b-4d57d6bf5ec9" value="TOOL_WINDOW" />
+        <entry key="0f940d00-4698-4130-a7b5-de133a9cae27" value="TOOL_WINDOW" />
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="0f940d00-4698-4130-a7b5-de133a9cae27">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+            </State>
+          </value>
+        </entry>
+        <entry key="38881db2-4e2a-465d-af48-c8800cfb9437">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="structure">
+                    <value>
+                      <list>
+                        <option value="dir:/home/memu/private/b5y.github.io/js" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+            </State>
+          </value>
+        </entry>
+        <entry key="ad60ac61-9b72-4cf7-8184-9fb63ae7cde9">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+            </State>
+          </value>
+        </entry>
+        <entry key="df06118f-cc63-4a5a-a83b-4d57d6bf5ec9">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Update front page." />
+    <MESSAGE value="Update footer.html." />
+    <MESSAGE value="Fix error." />
+    <MESSAGE value="Fix bug." />
+    <MESSAGE value="Re-build project." />
+    <MESSAGE value="Fix footer." />
+    <MESSAGE value="Fix errors." />
+    <MESSAGE value="Change footer." />
+    <MESSAGE value="Update info." />
+    <MESSAGE value="Fix medium link." />
+    <MESSAGE value="Update css and js files." />
+    <MESSAGE value="Change year to 2024." />
+    <MESSAGE value="Update photo and title." />
+    <MESSAGE value="Update about page.&#10;Add recommendations section." />
+    <MESSAGE value="Update about and cv pages." />
+    <MESSAGE value="Update headings." />
+    <MESSAGE value="Fix degree name." />
+    <MESSAGE value="Update about page." />
+    <MESSAGE value="Fix about page." />
+    <MESSAGE value="update section with date range in degree description." />
+    <MESSAGE value="Fix date on HS graduation." />
+    <MESSAGE value="Add new template." />
+    <MESSAGE value="Revert to previous theme." />
+    <MESSAGE value="Add loveit theme." />
+    <option name="LAST_COMMIT_MESSAGE" value="Add loveit theme." />
+  </component>
+</project>

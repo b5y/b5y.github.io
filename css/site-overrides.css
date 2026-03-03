@@ -1,0 +1,12 @@
+#header-desktop .header-wrapper .menu .menu-item {
+  font-size: 0.88rem;
+}
+
+#header-desktop .header-wrapper .menu .menu-item a {
+  font-size: inherit !important;
+}
+
+#header-mobile .header-container .menu .menu-item {
+  font-size: 0.95rem;
+  line-height: 2.2rem;
+}
